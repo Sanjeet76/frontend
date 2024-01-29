@@ -1,0 +1,17 @@
+.box1,.box2{
+  width: 50%;
+  box-sizing: border-box;
+}
+.box1{
+  float: left;
+
+}
+.box2{
+  float: right;
+}
+
+.clearfix::after{
+  content: "";
+  clear: both;
+  display:table;
+}

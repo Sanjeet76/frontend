@@ -1,0 +1,12 @@
+body{
+  height: 100%;
+  width: 100%;
+  font-family: 'Roboto', sans-serif;
+  overflow-x: hidden;
+  background-image: url('https://ik.imagekit.io/z9w0mxr6v/geiranger.jpg?updatedAt=1706459913118');
+  background-repeat: no-repeat;
+background-size: cover;
+background-attachment: fixed;
+  
+}
+::-webkit-scrollbar {display:none;}
